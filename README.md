@@ -12,6 +12,10 @@
 
 - 📫 How to reach me *benitomehdi@gmail.com*
 
+- GAME LINK "TIC-TAC-TOE-GAME": https://mahdibenyatt.github.io/tic-tac-toe-games/
+
+- LINKEDIN LINK : https://www.linkedin.com/in/el-mahdi-ben-yattou-31593a352
+
 - ⚡ Fun fact *I am Funny*
 
 <h3 align="left">Connect with me:</h3>
